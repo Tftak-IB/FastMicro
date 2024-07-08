@@ -1,6 +1,7 @@
 # FastMicro
 Exploring the Resilience and Stability of a Defined Human Gut Microbiota Consortium: An Isothermal Microcalorimetric Study.
-Anna Kattela,b, Valter Aroa,c, Petri-Jaan Lahtveec, Jekaterina Kazantsevab, Arvi Jõersc, Ranno Nahkub, Isma Belouahb,c,*
+
+Anna Kattel, Valter Aro, Petri-Jaan Lahtvee, Jekaterina Kazantseva, Arvi Jõers, Ranno Nahku, Isma Belouah
 
 The repository contains the 'Supporting information'. 
 1. Supporting Information.xlsx contains the Table S1 to S11
